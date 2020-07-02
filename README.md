@@ -15,4 +15,4 @@ Next steps are dragging the and dropping web services icon in the left inside th
 <br/>Then using barcode scanner application we scan this:<br/>
 <br/> <img src="https://github.com/ranabameer/controlling-robot-application/blob/master/images/7.JPG" raw=true /><br/>
 <br/>The final output is as follows:<br/>
-<br/> <img src="https://github.com/ranabameer/controlling-robot-application/blob/master/images/8.JPG" raw=true /><br/>
+<br/> <img src="https://github.com/ranabameer/controlling-robot-application/blob/master/images/8.jpeg" raw=true /><br/>
