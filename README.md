@@ -14,5 +14,9 @@ Next steps are dragging the and dropping web services icon in the left inside th
 <br/> <img src="https://github.com/ranabameer/controlling-robot-application/blob/master/images/6.JPG" raw=true /><br/>
 <br/>Then using barcode scanner application we scan this:<br/>
 <br/> <img src="https://github.com/ranabameer/controlling-robot-application/blob/master/images/7.JPG" raw=true /><br/>
-<br/>The final output is as follows:<br/>
+<br/>The final output in the mobile phone as an application is as follows:<br/>
 <br/> <img src="https://github.com/ranabameer/controlling-robot-application/blob/master/images/8.jpeg" raw=true /><br/>
+<br/>We See this video:<br/>
+<br/> <video width="320" height="240" controls>
+  <source src="movie.mp4" type="video/mp4">
+</video> 
